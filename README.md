@@ -21,19 +21,19 @@ You have a config.json file with :
 }
 ```
 
-Learning parameters :
+#### Learning parameters :
 
  - "learning_rate"
  - "epochs"
  - "nbLayers"
  - "batch_size"
 
-Choice your data :
+#### Choice your data :
 
  - "data"
  - "modelPath" (if you have already launched a model)
 
-Choice your work :
+#### Choice your work :
 
  - "saveModel"
  - "training" (No need if you have already launched and saved your model)
